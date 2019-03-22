@@ -1,7 +1,1 @@
-fsdfsfs dfs fsdfsdfsdfs dfs
-djfsljfdsljfkdjskjfdk
-sdjfsljdflsjdfjslfjd
-sjldflsjdksjkl
-pppppppppppp
-kkkkkkkkkkkkkkk
-uuuuuuuuuuuuuuuu
+yum provides 参数查看 libstdc++.so.6 的库文件包含在那个安装包中只需要执行：yum provides libstdc++.so.6
